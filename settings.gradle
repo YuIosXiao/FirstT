@@ -1,0 +1,3 @@
+rootProject.name = "DTil"
+include ':app'
+include ':dtil'
